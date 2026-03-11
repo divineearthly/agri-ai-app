@@ -25,3 +25,6 @@ recommender = CropRecommender()
 result = recommender.recommend(n=70, p=75, k=80, ph=6.8, humidity=60)
 print(result)
 ```
+
+## 🌍 Planetary Integration
+This application is a core module of the **Divine Earthly Intelligence OS (DEIOS)**. It leverages real-time data from the Google Earth Engine and NASA power APIs to align local soil health diagnostics with global climate trends.
